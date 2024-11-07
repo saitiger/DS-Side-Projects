@@ -1,2 +1,0 @@
-- Leveraging on the Image Classification Transfer learning
-- Used VGG16 and EfficientNet for Transfer Learning
